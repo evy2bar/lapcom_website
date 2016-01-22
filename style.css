@@ -506,7 +506,7 @@ h2.features-text::after {
 	content: "";
 }
 
-#installations, #clean-services, #network, #maintenance, #data, #other-services, #special-services {
+#installations, #clean-services, #network, #maintenance, #data, #other-services, #speed-services {
     position: relative;
     bottom: 60px;
 }
